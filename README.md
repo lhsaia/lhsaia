@@ -26,4 +26,4 @@
 
 ☎️ Contact  
 [LinkedIn](https://linkedin.com/in/luis-cereda)  
-[Gmail] mailto:lhsaia@gmail.com
+[Gmail](mailto:lhsaia@gmail.com)
