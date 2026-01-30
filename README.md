@@ -7,7 +7,7 @@
 - 🌎 Native Portuguese speaker, Fluent in English and Spanish, Basic Italian  
 
 
-# 🛠 Tech Stack  
+### 🛠 Tech Stack  
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +24,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-# ☎️ Contact  
+### ☎️ Contact  
 [LinkedIn](https://linkedin.com/in/luis-cereda)  
 [Gmail](mailto:lhsaia@gmail.com)
