@@ -1,4 +1,5 @@
 ## Hi, I'm Luis 👋
+- My portfolio: https://github.com/lhsaia/lhsaia.github.io
 - 🏭 Engineering Director on a CPG company, focused on Digitalization, Automation and Capex  
 - 🎓 Bachelor's degree in Chemical Engineering  
 - 📘 Extension Course in Machine Learning and Big Data  
